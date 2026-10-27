@@ -1,0 +1,4 @@
+# Holds your SteamGridDB API key and saved Steam AppIDs
+config.json
+
+__pycache__/
